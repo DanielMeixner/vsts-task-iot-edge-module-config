@@ -1,0 +1,18 @@
+{
+  "name": "dmx-iot-device-twin",
+  "version": "0.0.1",
+  "description": "A VSTS task to trigger IoT Hub to update device twins.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Meixner",
+  "homepage": "https://github.com/Microsoft/vsts-tasks#readme",
+  "dependencies": {
+    "azure-iothub": "^1.1.11",
+    "crypto": "^1.0.1",
+    "https": "^1.0.0",
+    "utf8": "^2.1.2",
+    "vsts-task-lib": "2.0.5"
+  }
+}

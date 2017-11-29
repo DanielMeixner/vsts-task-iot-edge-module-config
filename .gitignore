@@ -1,0 +1,10 @@
+*.vsix
+node_modules/
+sendC*
+*/node_modules/
+commands
+*.vsix 
+_out/*
+.vscode/
+buildtask/.taskkey
+edgedeviceconfigsample.json
